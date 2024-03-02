@@ -1,6 +1,7 @@
 # Customer Management App
 
-Zithara Technologies Round 2 - Task: React and Node JS Application Development. This is a simple customer management app built with React, Node.js, Express and PostgreSQL.
+Round 2 for Zithara Technologies is now a task-driven assessment instead of a coding round, as per client requirements.
+You are required to build a REACT and NODE JS application with PostgreSQL database Application Development. This is a simple customer management app built with React, Node.js, Express and PostgreSQL.
 
 ## Features
 
